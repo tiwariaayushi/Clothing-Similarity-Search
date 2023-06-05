@@ -15,3 +15,8 @@ A function is designed that accepts a text string, extracts its features, comput
 
 4. Deploy the function.
 Application is containerized using Docker and the function is deployed on POSTMAN API. The function accepts a JSON payload with the input text and returns a JSON response with the ranked list of similar item URLs.
+
+
+INSTRUCTIONS FOR DEPLOYMENT - 
+
+
